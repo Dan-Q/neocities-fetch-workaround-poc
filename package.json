@@ -1,0 +1,19 @@
+{
+  "name": "neocities-fetch-workaround-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "elena watch",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "elena build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elenajs/core": "^1.0.0"
+  },
+  "devDependencies": {
+    "@elenajs/bundler": "^1.0.0"
+  }
+}
