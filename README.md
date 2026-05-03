@@ -8,7 +8,7 @@ Go to https://embed-html.neocities.org/poc and see that you can engage in almost
 
 **This is not designed to be used in production. It is a proof-of-concept/teaching example only!**
 
-### Development
+### Development
 
 To build or host it yourself, you'll need PHP (tested with 8.5) and Node (tested with 24). This project wasn't designed for you to just "pick up and use" - it's a proof-of-concept/learning example - so the steps are slightly involved:
 
@@ -20,6 +20,6 @@ To build or host it yourself, you'll need PHP (tested with 8.5) and Node (tested
 6. On your Neocities (or wherever) page, add `<script type="module" src=".../dist/bundle.js"></script>`  but pointing to the URL of your `dist/bundle.js` file created by step 5; this can be hosted anywhere, even on Neocities itself.
 7. On your Neocities (or wherever) page, add `<mini-chat></mini-chat>` wherever you want the chat box to appear.
 
-### Discussion
+### Discussion
 
 Inspired by a conversation at https://forum.melonland.net/index.php?topic=5548.0
