@@ -1,4 +1,4 @@
-## Neocities <mini-chat> proof-of-concept
+## Neocities &lt;mini-chat> proof-of-concept
 
 A proof-of-concept that a remotely-hosted Web Component can use JSONP to pass messages to and from a remote service, despite Neocities' restrictive `connect-src` etc. Content-Security-Policy directives.
 
